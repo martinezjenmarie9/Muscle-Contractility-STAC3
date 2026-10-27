@@ -8,4 +8,6 @@ The graph helps describe the composition of the STAC3 protein by showing which a
 
 ## Variant Position
 
-A variant-position figure was not included because it was considered not applicable to this analysis. The results focus on the amino acid composition of the reference STAC3 protein rather than a visual map of the variant's location.
+Variant position refers to the location in a gene or protein where a genetic change occurs. For the selected STAC3 variant, c.763_766del, four nucleotides are deleted from the coding DNA sequence. Its predicted protein consequence, p.Leu255fs, indicates that the frameshift begins at amino acid position 255, where leucine (Leu) is affected.
+
+Although the variant's position can be identified from this information, a variant-position figure was not included in this analysis because it was considered not applicable to the selected results. The project instead focuses on the reference STAC3 protein sequence and its amino acid composition.
