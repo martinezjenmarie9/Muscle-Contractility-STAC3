@@ -64,17 +64,31 @@ How might the STAC3 frameshift variant c.763_766del affect the STAC3 protein and
 
 **Figure 1. STAC3 amino acid composition**
 
-File: `figures/01_amino_acid_composition.png`
+
+File: [figures/01_amino_acid_composition.png](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/figure/01_amino_acid_composition.png)
 
 The figure summarizes the number of occurrences of each standard amino acid in the reference STAC3 protein sequence.
 
+
+**Figure 2. Variant Position**
+
+File: [figures/02_variant_position](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/figure/02_variant_position.png)
+
+The STAC3 variant's location was identified from its HGVS notation. A separate variant-position image was not included because it was not applicable to this analysis.
+
+**Figure 3. Protein Structure**
+
+File: [protein_structure_or_splice_diagram](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/figure/protein_structure_or_splice_diagram.png)
+
+The UniProt protein feature diagram shows the functional regions of STAC3, helping illustrate its organization and role in skeletal muscle function.
+
 ### Output Files
 
-- `analysis.R` — R script used for the analysis
-- `data/STAC3_protein.fasta` — Reference protein sequence
-- `results/amino_acid_composition.csv` — Amino acid counts
-- `results/protein_summary.txt` — Protein summary
-- `figures/01_amino_acid_composition.png` — Amino acid composition figure
+- [analysis.R](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/tree/main/analysis.R) — R script used for the analysis
+- [data/STAC3_protein.fasta](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/data/STAC3_protein.fasta) — Reference protein sequence
+- [results/amino_acid_composition.csv](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/result/amino_acid_composition.csv) — Amino acid counts
+- [results/gene_summary.txt](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/result/gene_summary.txt) — Protein summary
+- [results/protein_accession.txt](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/result/protein_accession.txt) – The STAC3 reference protein accession is NP_659501.1, which identifies the protein sequence retrieved from NCBI and used for the amino acid composition analysis.
 
 ## E. Variant Interpretation
 The STAC3 c.763_766del variant removes four nucleotides from the coding sequence, causing a frameshift beginning at leucine 255. The altered reading frame is predicted to introduce a premature stop signal, which may result in a shortened or disrupted protein.
