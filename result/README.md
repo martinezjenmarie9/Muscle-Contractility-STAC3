@@ -8,7 +8,6 @@ The gene summary provides basic information about the STAC3 gene, including its 
 
 This summary helps explain the role of the gene and why changes in its sequence may be important.
 
-**File:** [gene_summary](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/result/gene_summary.txt )
 
 ### 2. Protein Accession
 
@@ -16,7 +15,7 @@ A protein accession is a unique identifier assigned to a protein record in a dat
 
 The protein accession helps ensure that the correct reference sequence is used when analyzing the STAC3 protein.
 
-**File:** [protein_accession](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/result/protein_accession.txt)
+
 
 ### 3. Amino Acid Composition
 
@@ -26,4 +25,3 @@ The R script reads the STAC3 protein sequence from the FASTA file and counts the
 
 This analysis describes the composition of the reference protein. It does not directly show how the selected variant changes the protein.
 
-**File:** [amino_acid_composition](https://github.com/martinezjenmarie9/Muscle-Contractility-STAC3/blob/main/result/amino_acid_composition.csv)
