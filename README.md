@@ -120,6 +120,8 @@ These experiments would help determine whether the variant affects STAC3 protein
 
 National Center for Biotechnology Information. (n.d.). *Bailey-Bloch congenital myopathy (CMYO13).* NCBI MedGen. https://www.ncbi.nlm.nih.gov/medgen/C1850625/
 
+Polster, A., Nelson, B. R., Olson, E. N., & Beam, K. G. (2016). Stac3 has a direct role in skeletal muscle-type excitation–contraction coupling that is disrupted by a myopathy-causing mutation. Proceedings of the National Academy of Sciences, 113(39), 10986–10991. https://doi.org/10.1073/pnas.1612441113
+
 **NCBI Gene:** https://www.ncbi.nlm.nih.gov/gene/
 
 **NCBI Protein:** 
