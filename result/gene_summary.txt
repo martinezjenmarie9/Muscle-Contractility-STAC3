@@ -1,0 +1,4 @@
+Gene symbol: STAC3
+NCBI Gene ID: 246329
+Official name: SH3 and cysteine rich domain 3
+Chromosome: 12
